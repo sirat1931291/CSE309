@@ -1,0 +1,44 @@
+/* #newid {
+    color: orange;
+}
+
+h2.newclass {
+    color: green;
+}
+
+p.newclass {
+    color: rgb(8, 94, 255);
+}
+
+.newclaas {
+    color: rgb(5, 255, 80);
+}
+
+* {
+    text-align: center;
+} */
+
+em {
+    color: blue;
+    border: 5px solid black;
+}
+
+h1 {
+    border: 5px solid red;
+    width: 30%;
+    display: inline;
+}
+
+h2 {
+    border: 5px solid red;
+    display: inline;
+}
+
+p {
+    border: 5px solid red;
+    width: 20%;
+}
+
+* {
+    text-align: center;
+}
