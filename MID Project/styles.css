@@ -1,0 +1,40 @@
+.personal_details, .educational_details, .job_details, .research_work, .academic_work, .academic_projects, .extra_curricular {
+    border-style: none;
+    position: relative;
+    border-radius: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 1%;
+    background-color: rgb(152, 192, 202);
+    box-shadow: 7px 7px 5px 0px rgb(203, 204, 206);
+}
+#main_div {
+    margin-left: 12%;
+    width: 80%;
+    border-style: none;
+}
+
+h2 {
+    color: rgb(49, 53, 53);
+    position: relative;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(49, 53, 53);
+}
+
+.div_footer {
+    margin-left: 20%;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(152, 192, 202);
+    color: white;
+    border-radius: 5px;
+}
